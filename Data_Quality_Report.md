@@ -30,3 +30,4 @@ Van a Quarantine:
 
 Al menos el 50% de los casos con days_since_signup_calc negativo tienen days_since_signup original = 0, lo cual es consistente con la hipótesis de que el sistema aplicaba un clamping a 0 para evitar valores negativos. El otro 50% no sigue ese patrón, sugiriendo que puede haber múltiples causas de inconsistencia en la columna original, no una sola.
 
+User_age tiene 754 nulos (~8.6%). No se consideran error duro ni se excluyen del dataset core, ya que no violan ninguna regla del challenge; se tratarán puntualmente si algún análisis específico lo requiere.
