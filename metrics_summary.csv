@@ -1,0 +1,12 @@
+metrica,valor
+Total posts (raw),8782.0
+Total posts (clean),8510.0
+Filas en quarantine,100.0
+Usuarios únicos,1997.0
+% Quarantine,1.16
+% Mismatches fechas,1.1
+Promedio votos (free),6.69
+Promedio votos (pro),7.65
+Promedio votos (enterprise),7.55
+Top 1% usuarios - % posts,5.79
+Top 1% usuarios - % votos,6.18
